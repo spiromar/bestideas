@@ -1,0 +1,21 @@
+ iframe-wrap {
+    width: 550px;
+    height: 355px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+    border-style:none;
+}
+.caption { text-align: center; }
+
+  .img-with-text { 
+        text-align: justify; 
+        width: 550px;
+        height: 355px;
+        margin: 0 auto; 
+  } 
+     
+  .img-with-text img { 
+        display: block; 
+        margin: 0 auto; 
+  } 
